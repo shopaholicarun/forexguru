@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Web automation trials
-Using Selenium and BeautifulSoup, 
-Find th
+Using Selenium and BeautifulSoup,  
+Find the Currency Conversion Rates from XE currency and return the Value
+
+##Not yet complete
 
 
 @author: Arun Kumar Elakoran
